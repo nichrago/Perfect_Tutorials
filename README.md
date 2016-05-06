@@ -7,6 +7,6 @@ learn Perfect at a faster pace than I upload tutorials... This is highly recomme
 
 # Tutorial Index
 
-Project Named --> PerfectTest       
-Perfect : Server Side Swift - Server Setup, Request Handling, and MySQL Connection                
+A walkthrough of getting yourself settled in Perfect  
+"Perfect : Server Side Swift - Server Setup, Request Handling, and MySQL Connection"                
 https://www.youtube.com/watch?v=vY-g5eqQ6oA 
